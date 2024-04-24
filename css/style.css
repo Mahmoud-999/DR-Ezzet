@@ -1,0 +1,93 @@
+
+
+/* Start header */ 
+.header{
+    background-color: #084218;
+    
+}
+.header .logo-header{
+    padding-top:5px ;
+    padding-top:5px ;
+}
+.header .logo-header h4{
+    padding-top: 10px;
+}
+.header .logo-header h2{
+    padding-bottom: 10px;
+}
+
+
+.header span{
+    
+    float: left;
+    padding-left: 10px;
+}
+/* End header */
+
+/* Start navbar */
+
+/* End navbar */
+
+/* Start mycarousel */
+
+
+/* End mycarousel */
+
+/* Start content*/
+.content .container{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.content .container .side-nav{
+    border-left: 1px solid rgba(154, 144, 144, 0.758);
+}
+.content .container .side-nav li{
+    line-height: 50px;
+}
+.content .container .side-nav li a{
+    display: block;
+}
+.content .container .side-nav li a:hover{
+    color: rgb(23, 16, 242);
+}
+
+
+/* section */
+
+.content .container section{
+    width: 75%;
+    
+}
+.content .container .mysec{
+    height: 350px;
+    overflow:auto;
+    margin-top: 20px;
+}
+/* End content */
+
+
+
+/* Start Footer */
+.footer {
+    background-color:#084218 ;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer .social{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer .social i{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+/* End Footer */
+
+
+/*==========================================*/
+/*==========================================*/
+/*          Videos Page                     */
+/*==========================================*/
+/*==========================================*/
